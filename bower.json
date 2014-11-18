@@ -1,8 +1,0 @@
-{
-  "name": "scaffold",
-  "dependencies": {
-    "requirejs": "~2.1.5",
-    "q": "~1.0.0",
-    "d3": "~3.4.8"
-  }
-}

@@ -1,4 +1,1 @@
-node_modules/
-frontend/coverage/
-frontend/dist/
-frontend/libs/
+node_modules

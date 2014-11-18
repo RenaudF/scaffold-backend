@@ -20,8 +20,6 @@
 		"before",
 		"beforeAll",
 		"after",
-		"afterAll",
-		"browser",
-		"By"
+		"afterAll"
 	]
 }

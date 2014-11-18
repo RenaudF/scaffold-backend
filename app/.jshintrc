@@ -13,10 +13,5 @@
 	"expr": true,
 	"strict": true,
 	"globalstrict": true,
-	"browser": true,
-	"devel": true,
-	"predef": [
-		"require",
-		"define"
-	]
+	"node": true
 }
